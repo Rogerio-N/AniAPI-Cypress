@@ -1,3 +1,5 @@
 {
-    "baseUrl":"https://api.aniapi.com"
+    "baseUrl":"https://api.aniapi.com",
+    "video": false,
+    "screenshotOnRunFailure": false
 }

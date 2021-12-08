@@ -16,4 +16,4 @@ jobs:
         with:
           env: true
         env:
-          JWT: ${{secrets.JWT}}
+          CYPRESS_JWT: ${{secrets.JWT}}
